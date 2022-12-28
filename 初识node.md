@@ -6,7 +6,7 @@ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine
 
 Node.js® 是一个基于 Chrome V8 引擎 的 JavaScript 运行时环境
 
-![1672140585081](1672140585081.png)
+![1672140585081](image/初识node/1672140585081.png)
 
 注意：
 
